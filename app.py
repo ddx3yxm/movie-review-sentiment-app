@@ -79,6 +79,10 @@ with tab2:
                 "별로",
                 "돈아깝",
                 "망",
+                "그냥",
+                "그래",
+                "그럼",
+                "ㄴㅈ"
             ]
 
             pos_count = sum(word in user_review for word in pos_words)
