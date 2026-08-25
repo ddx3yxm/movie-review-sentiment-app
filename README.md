@@ -27,9 +27,9 @@
 ## 📁 프로젝트 구조
 
 ```text
-├── app.py              # Streamlit 대시보드 및 감성 분석 메인 코드
-├── requirements.txt    # 배포 환경 설정 및 의존성 라이브러리 목록
-└── README.md           # 프로젝트 안내 문서
+├── app.py
+├── requirements.txt
+└── README.md   
 ```
 
 ---
