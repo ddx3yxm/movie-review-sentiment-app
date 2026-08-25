@@ -2,7 +2,7 @@
 
 > **Streamlit**을 활용하여 데이터 시각화 차트와 키워드 기반 감성 분석 로직을 웹 서비스 형태로 구현한 토이 프로젝트입니다.
 
-**[👉 웹 실행하기](https://movie-review-sentiment-app-6cbad39by4ayereq8qky5r.streamlit.app/)
+[👉 웹 실행하기](https://movie-review-sentiment-app-6cbad39by4ayereq8qky5r.streamlit.app/)
 
 ---
 
